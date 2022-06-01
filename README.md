@@ -1,22 +1,22 @@
 <link href="https://fastly.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
   
-## Likey_可能只是在摸鱼⌯'ㅅ'⌯
+## <img width="24px" src="/pic/Shock_Rosmontis.png" /> Likey_@可能只是在摸鱼⌯'ㅅ'⌯
 
 <p align="center">
-  <img align="center" width="200px" src="https://library.lyrikp.art/Likey/Likey_avatar.png" />
+  <img align="center" width="200px" src="/pic/Likey_avatar.png" />
 </p>
 <p align="center">
   
   <a href="https://space.bilibili.com/6741287" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+    <img src="/pic/bilibili-line.png" width="24px"/>
   </a>
   &emsp;
   <a href="https://music.163.com/#/artist?id=12466942" target="_blank" alt="Netease_cloud" title="Netease_cloud">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+    <img src="/pic/netease-cloud-music-line.png" width="24px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/people/lyrik-41" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  <a href="https://www.zhihu.com/people/lyrik-41" target="_blank" alt="zhihu" title="zhihu">
+    <img src="/pic/zhihu-line.png" width="24px"/>
   </a>
   <br><br>
    <strong>没有什么技术含量的博客 -> <a href="https://lyrikp.art">Likey’s blog</a></strong>
@@ -26,13 +26,13 @@
 Likey只是一直偷懒的小猫咪，小猫咪什么都不知道，因为我只是一只小猫咪。
 
 * 学生 | 电子信息科学与技术
-* 独立音乐人 | 网易音乐人 / 喜欢日系摇滚
-* 平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧ 
-* Gamer | 狂暴练度刀客塔 / 提瓦特的爷 / 养老摆烂舰长 / 空窗3年の音游人
+* <img src="/pic/music.png" width="15px"/>独立音乐人 | 网易音乐人<img src="/pic/netease-cloud-music-fill.png" width="15px"/> / 喜欢日系摇滚
+* <img src="/pic/graphic-design.png" width="15px"/>平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧ 
+* <img src="/pic/game-ps.png" width="15px"/> Gamer | 狂暴练度刀客塔 / 提瓦特的爷 / 养老舰长 / 偶尔摆烂の音游人
 * 想做游戏设计
 
 
-### Language & Framework
+### <img src="/pic/terminal-box-line.png" width="24px"/> Language & Framework
 
 <p>
   <img src="https://img.shields.io/badge/-Python3-3676AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -44,7 +44,7 @@ Likey只是一直偷懒的小猫咪，小猫咪什么都不知道，因为我只
   <img src="https://img.shields.io/badge/-Hexo-0D82CD?style=flat-square&logo=hexo&logoColor=white"/>
 </p>
 
-### Software & Tools
+### <img src="/pic/tools-line.png" width="24px"/> Software & Tools
 
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -56,7 +56,7 @@ Likey只是一直偷懒的小猫咪，小猫咪什么都不知道，因为我只
 
 ----
 
-### 最近在摸这样的<・)))><<
+### <img src="/pic/fish.png" width="24px"/> 最近在摸这样的<・)))><<
 
 <!--START_SECTION:waka-->
 
