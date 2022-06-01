@@ -19,7 +19,7 @@
     <img src="/pic/zhihu-line.png" width="24px"/>
   </a>
   <br><br>
-   <strong>没有什么技术含量的博客 -> <a href="https://lyrikp.art">Likey’s blog</a></strong>
+   <strong>没有什么技术含量的博客 → <a href="https://lyrikp.art">Likey’s blog</a></strong>
   <br><br>
 </p>
 
