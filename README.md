@@ -26,8 +26,8 @@
 Likey只是一直偷懒的小猫咪，小猫咪什么都不知道，因为我只是一只小猫咪。
 
 * 学生 | 电子信息科学与技术
-* <img src="/pic/music.png" width="15px"/>独立音乐人 | 网易音乐人<img src="/pic/netease-cloud-music-fill.png" width="15px"/> / 喜欢日系摇滚
-* <img src="/pic/graphic-design.png" width="15px"/>平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧ 
+* <img src="/pic/music.png" width="15px"/> 独立音乐人 | 网易音乐人<img src="/pic/netease-cloud-music-fill.png" width="15px"/> / 喜欢日系摇滚
+* <img src="/pic/graphic-design.png" width="15px"/> 平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧ 
 * <img src="/pic/game-ps.png" width="15px"/> Gamer | 狂暴练度刀客塔 / 提瓦特的爷 / 养老舰长 / 偶尔摆烂の音游人
 * 想做游戏设计
 
@@ -71,7 +71,7 @@ Stylus       7 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 查一查 Github 成分
+### <img src="/pic/github-fill.png" width="24px"/> 查一查 Github 成分
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
