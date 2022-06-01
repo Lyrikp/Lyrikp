@@ -23,7 +23,9 @@
   <br><br>
 </p>
 
-Likey只是一直偷懒的小猫咪，小猫咪什么都不知道，因为我只是一只小猫咪。
+Likey → 偷懒的小猫咪。
+
+小猫咪什么都不知道，因为我只是一只小猫咪。
 
 * 学生 | 电子信息科学与技术
 * <img src="/pic/music.png" width="15px"/> 独立音乐人 | 网易音乐人<img src="/pic/netease-cloud-music-fill.png" width="15px"/> / 喜欢日系摇滚
