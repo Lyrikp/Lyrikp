@@ -3,7 +3,7 @@
 ## <img width="24px" src="/pic/Shock_Rosmontis.png" /> Likey_@可能只是在摸鱼⌯'ㅅ'⌯
 
 <p align="center">
-  <img align="center" width="200px" src="/pic/Likey_avatar.png" />
+  <img align="center" width="150px" src="/pic/Likey_avatar.png" />
 </p>
 <p align="center">
   
