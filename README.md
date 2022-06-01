@@ -29,8 +29,9 @@ Likey → 偷懒的小猫咪。
 
 * 学生 | 电子信息科学与技术
 * <img src="/pic/music.png" width="15px"/> 独立音乐人 | 网易音乐人<img src="/pic/netease-cloud-music-fill.png" width="15px"/> / 喜欢日系摇滚
-* <img src="/pic/graphic-design.png" width="15px"/> 平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧ 
-* <img src="/pic/game-ps.png" width="15px"/> Gamer | 狂暴练度刀客塔 / 提瓦特的爷 / 养老舰长 / 偶尔摆烂の音游人
+* <img src="/pic/graphic-design.png" width="15px"/> 平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧
+* <img src="/pic/badminton.svg" width="15px"/> 羽毛球er | 最近因为狂暴打球得了髌腱炎被医生要求静养6个月，$\colorbox{black}{但我必不会听}$
+* <img src="/pic/game-ps.png" width="15px"/> Gamer | 风暴练度刀客塔 / 提瓦特之爷 / 养老舰长 / 偶尔摆烂の音游人
 * 想做游戏设计
 
 
