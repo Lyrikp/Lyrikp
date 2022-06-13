@@ -64,7 +64,7 @@ Likey → 偷懒的小猫咪。
 <!--START_SECTION:waka-->
 
 ```text
-CSS   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
