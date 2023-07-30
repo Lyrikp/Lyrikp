@@ -1,4 +1,4 @@
-<link href="https://fastly.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://library.lyrikp.art/Likeyblog-css/remixicon/remixicon.css" rel="stylesheet">
   
 ## <img width="24px" src="/pic/Shock_Rosmontis.png" /> Likey_@可能只是在摸鱼⌯'ㅅ'⌯
 
